@@ -1,2 +1,2 @@
 # thisisatest
-This is a repo for learning how to use Git!
+This is a repo for becoming a pro-Git user.
